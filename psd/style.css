@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding:0;
+
+}
+
+.container{
+max-width: 355px;
+margin: auto;
+
+
+}
+
+body{
+background-color: #6a9dde;
+
+
+}
+
+#one h1{
+    font-size: 25px;
+    color: #676121;
+    font-weight: bold;
+    font-family: "Proxima Nova"
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
